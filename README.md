@@ -2,7 +2,7 @@
 
 A custom modifier made to help make previews easier to set up.
 
-A blog post about swiftUI previews can be found [here](https://www.designibl.com)
+A blog post about swiftUI previews can be found [here](https://www.designibl.com/post/swiftui-previews-thoughts-tips)
 
 ## How To Use
 
