@@ -27,7 +27,7 @@ To customise further you can add the following.
 
 | Variable       | Default          | What it does when true |
 | ------------- |:-------------:| -----:|
-| standardPreview | true | Creates a light mode preview for each device chosen |
+| standardPreview | true | Creates a preview using the device selected in Xcode's top bar |
 | darkMode | true | Creates a dark mode preview copy for each device chosen |
 | accessibilityXXXLText | false | Creates preview copies that has XXXL text size turned on |
 | iPhoneSE | false | Creates preview copies on iPhoneSE |
